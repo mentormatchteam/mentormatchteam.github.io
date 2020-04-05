@@ -7,8 +7,18 @@ body {
   background-color: white !important;
 }
 
+@font-face {
+  font-family: "HKGrotesk";
+  src: url("/fonts/HKGrotesk-Medium.woff") format("woff")
+}
+
+@font-face {
+  font-family: "Futura-Medium";
+  src: url("/fonts/Futura-Medium.woff") format("woff")
+}
+
 a {
-  font-family: 'Graphik';
+  font-family: 'HKGrotesk';
   font-style: normal;
   color: black !important;
 }
@@ -30,7 +40,7 @@ header {
   border: none;
   background: #2B44FF !important;
   border-radius: 10px;
-  font-family: 'Graphik';
+  font-family: 'HKGrotesk';
   font-size: 20px;
   padding: 10px 15px;
   color: white !important;
@@ -44,7 +54,7 @@ header {
   border: none;
   border-radius: 10px;
   height: 45px;
-  font-family: 'Graphik';
+  font-family: 'HKGrotesk';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -82,7 +92,7 @@ h2 {
 }
 
 p {
-  font-family: 'Graphik';
+  font-family: 'HKGrotesk';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
