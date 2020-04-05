@@ -1,0 +1,114 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+body {
+  background-color: white !important;
+}
+
+a {
+  font-family: 'Graphik';
+  font-style: normal;
+  color: black !important;
+}
+
+a:hover {
+  font-style: normal;
+  color: black;
+}
+
+header {
+  padding: 156px 0 100px;
+  background-image: url(/img/illustration.png);
+  background-size: 686px 626px;
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+
+.btn-primary {
+  border: none;
+  background: #2B44FF !important;
+  border-radius: 10px;
+  font-family: 'Graphik';
+  font-size: 20px;
+  padding: 10px 15px;
+  color: white !important;
+}
+
+.btn-primary:hover {
+  background: #1F28CF !important;
+}
+
+.email-input {
+  border: none;
+  border-radius: 10px;
+  height: 45px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: black;
+  background: white;
+  padding: 10px;
+  margin: 10px 0px;
+}
+
+.bg-light {
+  background-color: white !important;
+}
+
+.bg-dark {
+  background-color: #D3EFF3 !important;
+}
+
+h1 {
+  font-family: 'Futura-Medium';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  color: black;
+  line-height: 36px;
+}
+
+h2 {
+  font-family: 'Futura-Medium', monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 36px;
+  margin-top: 0px;
+  color: black;
+}
+
+p {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: black;
+}
+
+.lead {
+  margin: 24px 0px;
+}
+
+section {
+  padding: 100px 0;
+}
+
+.copyright {
+  font-size: 17px;
+}
+
+.subheading {
+  font-family: 'Futura-Medium';
+  font-size: 18px;
+  color: black !important;
+  letter-spacing: 0.1em;
+}
+
+.footer {
+  
+}
